@@ -5,7 +5,7 @@
 - Tener un editor de código instalado
 - Tener una cuenta en GitHub.
 
-## INSTRUCCIONES
+## INSTRUCCIONESihjhhj
 
 1. Abrir la terminal (tener en cuenta que la interfaz puede cambiar dependiendo
    del sistema operativo que tengas).
