@@ -21,7 +21,7 @@ html
       Instantly publish articles, drive more traffic, grow your email list, and
       see your blog’s impact on sales.4 
 
-      hola modificacion rso 1 rso 2 2 2
+      hola modificacion rso 1 rso 2 2 2 3 4 5 6
     </h4>
     <!-- O usando un párrafo -->
     <!--
